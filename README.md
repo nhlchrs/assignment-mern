@@ -21,8 +21,10 @@ Before you begin, ensure you have the following installed:
 git clone <repository-url>
 cd <project-directory>
 
-Next steps:- 
+# Step 1: Install dependencies
 npm install
+
+# Step 2: Run the development server
 npm run dev
 
 
